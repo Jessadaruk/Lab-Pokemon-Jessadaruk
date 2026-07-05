@@ -9,7 +9,7 @@
 - รายวิชา: Front-end Web Programming
 - คณะ: คณะสหวิทยาการ
 - สาขา: วิทยาการคอมพิวเตอร์
-- มหาวิทยาลัย: มหาวิทยาลัยขอนแก่น
+- มหาวิทยาลัย: ขอนแก่น
 
 ## คำอธิบายโปรเจค
 
@@ -47,15 +47,15 @@
 - Material UI
 - PokeAPI
 
-## วิธีติดตั้งและรันโปรเจค
+## วิธีติดตั้งและรันโปรเจค บน Locall
 
 ```bash
 npm install
 npm run dev
 ```
-
 เปิดเว็บที่ http://localhost:3000
+หรือเปิดผ่านออนไลน์ : 
 
 ## GitHub Source Code
 
-https://github.com/Jessadaruk/Lab-Pokemon-Jesssadaruk
+https://github.com/Jessadaruk/Lab-Pokemon-Jessadaruk
