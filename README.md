@@ -53,8 +53,10 @@
 npm install
 npm run dev
 ```
+
 เปิดเว็บที่ http://localhost:3000
-หรือเปิดผ่านออนไลน์ : 
+
+หรือเปิดผ่านออนไลน์ : https://lab-pokemon-jessadaruk.vercel.app/
 
 ## GitHub Source Code
 
