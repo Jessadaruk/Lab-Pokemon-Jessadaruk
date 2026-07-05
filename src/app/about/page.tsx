@@ -87,7 +87,7 @@ export default function AboutPage() {
               </Box>
               <Button
                 component="a"
-                href="https://github.com/Jessadaruk/Lab-Pokemon-Jesssadaruk"
+                href="https://github.com/Jessadaruk/Lab-Pokemon-Jessadaruk/tree/main"
                 target="_blank"
                 rel="noopener noreferrer"
                 variant="contained"
